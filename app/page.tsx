@@ -7,11 +7,6 @@ export default function Home() {
   return <main>
       <HeroSection />
   
-      
-  </main>;
-  return <main><HeroSection />
-  
-
 {/* ── FEATURES SECTION ── */}
 <section className="about-section">
   <div className="about-container">
